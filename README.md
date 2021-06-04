@@ -5,3 +5,5 @@ Here i will have all my translations
 **[Greek] IOHK - Why Peer Review.srt** file is a Greek Translation of https://www.youtube.com/watch?v=MV8ANlktGoI [IOHK | Why Peer Review?]
 
 **Motivation.docx** is a Greek Translation of https://why.cardano.org/en/introduction/motivation/
+
+**Marlowe.md** is a Greek Translation of https://iohk.io/en/blog/posts/2018/12/11/marlowe-financial-contracts-on-blockchain/
